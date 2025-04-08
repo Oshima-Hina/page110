@@ -1,6 +1,9 @@
 Here is the outline of this page:
+
 [Introduction](#introduction)
+
 [Interests](#interests)
+
 [Misc.](#miscellaneous)
 
 
@@ -26,8 +29,9 @@ int main() {
 - I also enjoy watching anime~~expecially, the Bandori series~~
 <img src="/res/logo_mygo.png" alt="Mygo!!!!!" width="300"/>
 > "迷子でもいい、迷子でも進め"
-This logo can be accessed [![logo](here)](/res/logo_mygo.png)(link to the picture)
-You can find an introduction to this anime [here](mygo.md)
+This logo can be accessed [here](/res/logo_mygo.png)(link to the picture)
+
+You can find an introduction to this anime [here](/mygo.md)
 
 
 
