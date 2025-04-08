@@ -26,7 +26,7 @@ int main() {
 ### Personal
 - **Aviation**
 
-- I also enjoy watching anime ~~expecially, the Bandori series~~
+- I also enjoy watching anime ~~especially, the Bandori series~~
 <img src="/res/logo_mygo.png" alt="Mygo!!!!!" width="300"/>
 > "迷子でもいい、迷子でも進め"
 > > ...
