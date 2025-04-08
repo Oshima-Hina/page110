@@ -31,7 +31,7 @@ int main() {
 
 smaller picture:
 
-<img src="/res/logo_mygo.png" alt="Mygo!!!!!" width="300"/>
+<img src="https://github.com/Oshima-Hina/page110/blob/private/res/logo_mygo.png" alt="Mygo!!!!!" width="300"/>
 
 > "迷子でもいい、迷子でも進め"
 > > ...
