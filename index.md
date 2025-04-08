@@ -29,9 +29,14 @@ int main() {
 - I also enjoy watching anime ~~especially, the Bandori series~~
 ![MyGO](https://github.com/Oshima-Hina/page110/blob/private/res/logo_mygo.png)
 
+smaller picture:
+
+<img src="/res/logo_mygo.png" alt="Mygo!!!!!" width="300"/>
+
 > "迷子でもいい、迷子でも進め"
 > > ...
 
+![test](https://github.com/Oshima-Hina/page110/blob/private/screenshot/project1-vsc.png)
 
 This logo can be accessed [here](https://github.com/Oshima-Hina/page110/blob/private/res/logo_mygo.png)(link to the picture)
 
