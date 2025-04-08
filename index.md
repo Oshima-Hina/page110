@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 Here is the outline of this page:
 
 [Introduction](#introduction)
