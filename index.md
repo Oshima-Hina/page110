@@ -34,7 +34,7 @@ int main() {
 
 This logo can be accessed [here](https://github.com/Oshima-Hina/page110/blob/private/res/logo_mygo.png)(link to the picture)
 
-You can find an introduction to this anime [here](/mygo.md)
+You can find an introduction to this anime [here](/mygo.md)(link to another .md file)
 
 
 
