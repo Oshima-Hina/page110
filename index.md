@@ -27,11 +27,11 @@ int main() {
 - **Aviation**
 
 - I also enjoy watching anime ~~especially, the Bandori series~~
-![MyGO](https://github.com/Oshima-Hina/page110/blob/private/res/logo_mygo.png)
+![MyGO](https://github.com/Oshima-Hina/page110/blob/831f6fa8deb054844eee266506acae7125dbd58c/res/logo_mygo.png)
 
 smaller picture:
 
-<img src="https://github.com/Oshima-Hina/page110/blob/private/res/logo_mygo.png" alt="Mygo!!!!!" width="300"/>
+<img src="https://github.com/Oshima-Hina/page110/blob/831f6fa8deb054844eee266506acae7125dbd58c/res/logo_mygo.png" alt="Mygo!!!!!" width="300"/>
 
 > "迷子でもいい、迷子でも進め"
 > > ...
