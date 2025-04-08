@@ -21,7 +21,7 @@ int main() {
 ## Interests
 ### Academic
 - computer Security
-  I am currently taking CSE127, if you are taking that course too, you are welcome to contact me! I am also familiar with anonymous networks.
+  I'm currently taking CSE127, and if you're in the same course, feel free to reach out! I'm also familiar with anonymous networks.
 
 ### Personal
 - **Aviation**
